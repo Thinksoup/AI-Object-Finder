@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.NOTE{
+    font-size: 15px;
+    color: darkgreen;
+}
+#ON{
+    font-size: 25px;
+}
+canvas{
+    border-radius: 20px;
+    border: 5px solid white;
+}
+#start{
+    font-size: x-large;
+    border-radius: 20px;
+}
